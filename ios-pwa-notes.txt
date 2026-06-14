@@ -1,0 +1,15 @@
+
+UME Estética Avançada — próximo passo para App Store (Capacitor)
+
+1) Sirva o projeto em HTTPS ou localhost para validar o PWA.
+2) Teste “Adicionar à Tela de Início” no Safari do iPhone.
+3) Crie um projeto Capacitor apontando para os assets web deste app.
+4) Abra no Xcode, configure bundle ID, signing e ícones.
+5) Gere o build iOS e publique no App Store Connect.
+
+Arquivos adicionados nesta etapa:
+- manifest.webmanifest
+- sw.js
+- apple-touch-icon.png
+- icon-192.png
+- icon-512.png
